@@ -1,0 +1,2 @@
+make TARGET=native WERROR=0
+./hello-world.native
