@@ -70,7 +70,7 @@ Link : https://docs.docker.com/engine/install/ubuntu/
 
         $ sudo apt install docker-compose
 
-## Download the Contiki-NG image 
+## Contiki-NG image 
 
 Help : https://github.com/contiki-ng/contiki-ng/wiki/Docker
 
@@ -100,7 +100,7 @@ Then, it is a good idea to create an alias that will help start docker with all 
         $ source ~/.bashrc
 
 
-## Run and Execute Contiker 
+**Run and Execute Contiker**
 
 Disable access control 
 
